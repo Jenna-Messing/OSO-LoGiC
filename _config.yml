@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SUNRISE"
+title                    : "OSO-LoGiC"
 title_separator          : "-"
-name                     : &name "SUNRISE"
-description              : &description "NSF SUNRISE project"
+name                     : &name "OSO-LoGiC"
+description              : &description "NASA OSO-LoGiC Project"
 url                      : https://sunrise-nsf.github.io
 # last_updated             : true
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -81,7 +81,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SUNRISE NSF-NERC"
+  name             : "NASA OSO-LoGiC"
   avatar           : "sunrise_logo.png"
   bio              :
   location         :
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sunrise-nsf"
+  github           : "OSO-LoGiC"
   google_plus      :
   keybase          :
   instagram        :

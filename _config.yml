@@ -11,7 +11,7 @@ title                    : "OSO-LoGiC"
 title_separator          : "-"
 name                     : &name "OSO-LoGiC"
 description              : &description "NASA OSO-LoGiC Project"
-url                      : https://OSO-LoGiC.github.io
+url                      : https://Jenna-Messing.github.io/OSO-LoGiC/
 # last_updated             : true
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "geografo-esploratore/OSO-LoGiC"

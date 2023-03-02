@@ -16,14 +16,11 @@ Principle Investigator
 ### [Nathan Morrow](https://sph.tulane.edu/ihsd/nathan-morrow)
 ![alt text](/images/rob.jpg "Rob Hetland")
 
-Postdocs
+Postdoc
 ======
 
 ### [Pornpimol Kodsup](https://www.linkedin.com/in/pornpimol-kodsup-ms-mph-2a0318150/)
 ![alt text](/images/lixin.jpg "Lixin Qu")
-
-### [Tyneisha Bradley](https://www.linkedin.com/in/tyneisha-bradley-5a5750117/)
-![alt text](/images/jl2158.jpg "Jinliang Liu")
 
 Graduate Students
 ======
@@ -31,3 +28,5 @@ Graduate Students
 ### [Jenna Messing](https://www.linkedin.com/in/jennamessing/)
 ![alt text](/images/Aaron.jpg "Aaron Wienkers")
 
+### [Tyneisha Bradley](https://www.linkedin.com/in/tyneisha-bradley-5a5750117/)
+![alt text](/images/jl2158.jpg "Jinliang Liu")

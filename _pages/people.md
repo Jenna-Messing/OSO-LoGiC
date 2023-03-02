@@ -28,6 +28,6 @@ Postdocs
 Graduate Students
 ======
 
-### [Jenna Messing](http://wienkers.com)
+### [Jenna Messing](https://www.linkedin.com/in/jennamessing/)
 ![alt text](/images/Aaron.jpg "Aaron Wienkers")
 

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ASSESSING the Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast (OSO-LoGiC)"
+title: "Assessing the Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast (OSO-LoGiC)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

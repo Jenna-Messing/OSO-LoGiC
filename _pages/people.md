@@ -22,7 +22,7 @@ Postdocs
 ### [Pornpimol Kodsup](https://www.linkedin.com/in/pornpimol-kodsup-ms-mph-2a0318150/)
 ![alt text](/images/lixin.jpg "Lixin Qu")
 
-### [Tyneisha Bradley](https://www.damtp.cam.ac.uk/person/jl2158)
+### [Tyneisha Bradley](https://www.linkedin.com/in/tyneisha-bradley-5a5750117/)
 ![alt text](/images/jl2158.jpg "Jinliang Liu")
 
 Graduate Students

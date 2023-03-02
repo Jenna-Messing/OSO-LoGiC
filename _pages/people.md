@@ -19,7 +19,7 @@ Principle Investigator
 Postdocs
 ======
 
-### [Pornpimol Kodsup](https://profiles.stanford.edu/lixin-qu?releaseVersion=7.16.0)
+### [Pornpimol Kodsup](https://www.linkedin.com/in/pornpimol-kodsup-ms-mph-2a0318150/)
 ![alt text](/images/lixin.jpg "Lixin Qu")
 
 ### [Tyneisha Bradley](https://www.damtp.cam.ac.uk/person/jl2158)

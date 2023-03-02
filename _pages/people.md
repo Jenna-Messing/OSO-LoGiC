@@ -13,7 +13,7 @@ author_profile: true
 Principle Investigator
 ======
 
-### [Nathan Morrow](http://pong.tamu.edu/~rob/)
+### [Nathan Morrow](https://sph.tulane.edu/ihsd/nathan-morrow)
 ![alt text](/images/rob.jpg "Rob Hetland")
 
 Postdocs

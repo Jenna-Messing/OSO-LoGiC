@@ -25,8 +25,8 @@ Postdoc
 Graduate Students
 ======
 
-### [Jenna Messing](https://www.linkedin.com/in/jennamessing/)
-![alt text](/images/Aaron.jpg "Aaron Wienkers")
-
 ### [Tyneisha Bradley](https://www.linkedin.com/in/tyneisha-bradley-5a5750117/)
 ![alt text](/images/jl2158.jpg "Jinliang Liu")
+
+### [Jenna Messing](https://www.linkedin.com/in/jennamessing/)
+![alt text](/images/Aaron.jpg "Aaron Wienkers")

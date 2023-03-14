@@ -19,7 +19,7 @@ Location
 
 Louisiana's Gulf Coast........
 
-![TXLA Example](../images/TXLA_example.png)
+![TXLA Example](../images/poster.JPG)
 
 Observational plan
 ======

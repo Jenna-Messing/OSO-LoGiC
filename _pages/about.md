@@ -14,14 +14,14 @@ Project overview
 
 add description here
 
+![OSO-LoGiC Poster](https://jenna-messing.github.io/OSO-LoGiC/assets/OSO_Poster.pdf)
+
 Location
 =====
 
-Louisiana's Gulf Coast........
-
-![TXLA Example](../images/poster.JPG)
+add description here
 
 Observational plan
 ======
 
-![GOM Submeso NIW Sampling V3 01](../images/GOM_submeso_NIW_sampling_v3-01.png)
+add description here

@@ -20,13 +20,13 @@ Postdoc
 ======
 
 ### [Pornpimol Kodsup](https://www.linkedin.com/in/pornpimol-kodsup-ms-mph-2a0318150/)
-![alt text](/images/lixin.jpg "Lixin Qu")
+![Kodsup Headshot](https://jenna-messing.github.io/OSO-LoGiC/assets/kodsup.jpg)
 
 Graduate Students
 ======
 
 ### [Tyneisha Bradley](https://www.linkedin.com/in/tyneisha-bradley-5a5750117/)
-![alt text](/images/jl2158.jpg "Jinliang Liu")
+![Bradley Headshot](https://jenna-messing.github.io/OSO-LoGiC/assets/bradley.jpg)
 
 ### [Jenna Messing](https://www.linkedin.com/in/jennamessing/)
-![alt text](/images/Aaron.jpg "Aaron Wienkers")
+![Messing Headshot](https://jenna-messing.github.io/OSO-LoGiC/assets/messing.jpg)

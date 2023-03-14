@@ -8,4 +8,4 @@ date: 2023-03-01
 location: "New Orleans, Louisiana"
 ---
 
-Presenter: Aaron Wienkers. [Link to event](https://research.tulane.edu/content/trics)
+Poster Session for AEGJL-4-EQUITY. [Link to event](https://research.tulane.edu/content/trics)

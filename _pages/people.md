@@ -14,7 +14,7 @@ Principle Investigator
 ======
 
 ### [Nathan Morrow](https://sph.tulane.edu/ihsd/nathan-morrow)
-![alt text](/images/rob.jpg "Rob Hetland")
+![Morrow Headshot](https://jenna-messing.github.io/OSO-LoGiC/assets/morrow.png)
 
 Postdoc
 ======

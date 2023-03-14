@@ -14,7 +14,7 @@ Project overview
 
 add description here
 
-![OSO-LoGiC Poster](https://jenna-messing.github.io/OSO-LoGiC/assets/OSO_Poster.pdf)
+![OSO-LoGiC Poster](https://jenna-messing.github.io/OSO-LoGiC/assets/OSO_Poster.png)
 
 Location
 =====

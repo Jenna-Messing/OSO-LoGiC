@@ -8,4 +8,4 @@ date: 2023-03-01
 location: "New Orleans, Louisiana"
 ---
 
-Presenter: Aaron Wienkers. [Link to abstract](https://agu.confex.com/agu/osm20/meetingapp.cgi/Paper/644174)
+Presenter: Aaron Wienkers. [Link to event](https://research.tulane.edu/content/trics)

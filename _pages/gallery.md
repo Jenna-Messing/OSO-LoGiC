@@ -11,3 +11,10 @@ Tyneisha Bradley, Dr. Nathan Morrow, Dr. David Padgett, and Dr. Beverly Wright c
 ### Event 1
 add description here
 ![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_1.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_2.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_3.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_4.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_5.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_6.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_7.jpeg)
+![AGEJL Presentation Photos](https://jenna-messing.github.io/OSO-LoGiC/assets/aegjl_presentation_8.jpeg)

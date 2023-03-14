@@ -10,4 +10,4 @@ Tyneisha Bradley, Dr. Nathan Morrow, Dr. David Padgett, and Dr. Beverly Wright c
 
 ### Near-inertial wave critical layers
 Leif Thomas, Lixin Qu, and Jamie Hilditch have been examining slantwise critical layers over the TXLA shelf, which have been shown to enhance mixing. The figure below demonstrates evidence and processes associated with slantwise critical layers in both the TXLA model and idealized shelf simulations. 
-![](./images/critical_layer.png)
+![](../images/critical_layer.png)

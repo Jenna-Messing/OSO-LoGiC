@@ -4,8 +4,8 @@ title: "Gallery"
 author_profile: true
 
 ---
-### High-resolution nested TXLA model
-Daijiro Kobashi and Rob Hetland developed a two-way nested grid of the TXLA model that has roughly five times the resolution as the parent grid. The figure below shows snapshots of the surface vertical vorticity field. Look at all the structure that pops up inside the box!
+### Assessment of the Gulf Coast Environmental Justice Landscape for Equity (AGEJL-4-EQUITY)
+Tyneisha Bradley, Dr. Nathan Morrow, Dr. David Padgett, and Dr. Beverly Wright created a poster for project AGEJL-4-EQUITY. Check it out here!
 ![](../images/poster.JPG)
 
 ### Near-inertial wave critical layers

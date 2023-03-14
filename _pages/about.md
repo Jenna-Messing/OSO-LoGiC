@@ -19,8 +19,6 @@ Location
 
 add description here
 
-Observational plan
-======
 
-add description here
+======
 ![OSO-LoGiC Poster](https://jenna-messing.github.io/OSO-LoGiC/assets/OSO_Poster.png)

@@ -18,6 +18,6 @@ Open Science broadens participation in the scientific process with tangible bene
 
 The resilience of the Louisiana Gulf Coast with a broad diversity of communities facing a wide-range of environmental challenges could potentially benefit the most as well as provide real world assessment of opportunities for value addition to NASA investments with greater inclusive and equitable engagement in Open Science. 
 
-The OSO-LOGIC is part of the NASA’s newest initiative element of the Earth Sciences Division (ESD) to advance equity by focusing programmatically on underserved communities, redoubling efforts to understand domestic impacts of environmental and climate change, and intentionally promote diversity, inclusion and accessibility.
+![Gulf Photo](https://jenna-messing.github.io/OSO-LoGiC/assets/Gulf.png)
 
-![OSO-LoGiC Poster](https://jenna-messing.github.io/OSO-LoGiC/assets/OSO_Poster.png)
+The OSO-LOGIC is part of the NASA’s newest initiative element of the Earth Sciences Division (ESD) to advance equity by focusing programmatically on underserved communities, redoubling efforts to understand domestic impacts of environmental and climate change, and intentionally promote diversity, inclusion and accessibility.

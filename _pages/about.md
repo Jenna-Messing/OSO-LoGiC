@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "OSO-LoGiC: Assessing the Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast"
+title: "Assessing the Open Science Outlook for Environmental Justice and Resilience of the Louisiana Gulf Coast"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Overview
+(OSO-LoGiC)
 ======
 
 Environmental injustice persists because it too often goes unobserved. Individual complaints and marginalized voices too often lack scientifically valid processes that can aggregate evidence for sustainable and consequential action. 
